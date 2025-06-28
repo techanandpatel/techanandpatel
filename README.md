@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Anand Patel
 
-<!--
-**techanandpatel/techanandpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Engineer | Full-Stack Web Developer | Custom CMS & E-commerce Expert**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate developer specializing in building dynamic, secure, and scalable websites using modern PHP frameworks. I focus on fully custom solutions using Laravel, CodeIgniter, and tailored backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Web Development Skills
+
+### 🔙 **Backend (Core Focus)**
+- PHP (OOP & Core)
+- Laravel, CodeIgniter
+- Custom CMS, Blog Systems
+- Custom E-commerce Platforms
+- RESTful API Development
+- Admin Panels & Dashboards
+
+### 🎨 **Frontend**
+- HTML5, CSS3, JavaScript
+- jQuery, Angular
+- Bootstrap, Tailwind CSS
+- Responsive UI/UX Design
+- Photoshop (UI/Graphics)
+
+---
+
+## 🧰 Tools & Technologies
+- Git & GitHub
+- MySQL
+- WAMP, cPanel, FTP
+- Figma, Photoshop
+
+---
+
+## 📱 Additional Knowledge: Flutter
+- Cross-platform Mobile Apps
+- Firebase Integration
+- Material Design UI
+- API Integration
+
+---
+
+## 🔧 What I Build
+- Dynamic Websites & Web Apps
+- Custom CMS (Laravel)
+- E-commerce Websites (Laravel)
+- Blog Platforms, Portals, Dashboards
+- Secure Admin Systems
+- API-Connected Frontends
+- UI Mockups & Layouts
+
+---
+ 
+
+Thanks for checking out my GitHub! Explore my repos to see what I’m working on or get in touch if you want to collaborate.
